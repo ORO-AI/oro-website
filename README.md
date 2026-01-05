@@ -1,10 +1,10 @@
 # ORO Website
 
-Landing page for ORO, a personal stylist powered by AI.
+Landing page for ORO, a personal shopping assistant powered by AI.
 
 ## Overview
 
-A scroll-journey landing page designed for brand awareness. The site unfolds a narrative as users scroll, moving from the problem (fragmented shopping research) to the solution (ORO as your personal stylist).
+A scroll-journey landing page designed for brand awareness. The site unfolds a narrative as users scroll, moving from the problem (fragmented shopping research) to the solution (ORO as your personal shopping assistant).
 
 ## Design Principles
 
@@ -15,7 +15,7 @@ A scroll-journey landing page designed for brand awareness. The site unfolds a n
 
 ## Structure
 
-1. **Hero** - ORO wordmark with "Your personal stylist. Coming soon."
+1. **Hero** - ORO wordmark with "Your personal shopping assistant. Coming soon."
 2. **Problem** - Names the tension of endless research with no purchase
 3. **The Turn** - Introduces ORO as the solution
 4. **Philosophy** - Two promises: comprehensive search + privacy
