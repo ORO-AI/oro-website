@@ -1,0 +1,7 @@
+
+# Claude Files should be added to gitignore
+CLAUDE.md
+
+# Specstory is for saving agent chats
+.specstory/*
+
